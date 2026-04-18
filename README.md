@@ -24,5 +24,27 @@ A full-stack web application to manage employee records with complete CRUD funct
 - **Server:** Apache Tomcat  
 
 ---
+## 📸 Screenshots
 
+### Login Page
+![Login](login.png)
 
+### Sign Up Page
+![Signup](signup.png)
+
+### 🏠 Home Page
+![Home](home.png)
+
+### ➕ Add Employee
+![Add](add.png)
+
+### 🔍 Search Employee
+![Search](search.png)
+
+### ❌ Delete Employee
+![Delete](delete.png)
+
+### ✏️ Update Employee
+![Update](update.png)
+
+###
